@@ -1,0 +1,42 @@
+body{
+	text-align:center;
+}
+
+header > div > #name{
+	font-family: "Wellfleet", serif;
+}
+
+header {
+	/* background:#99FF99; */
+}
+
+.img-responsive{
+	display:block;
+	margin: 0 auto;
+}
+
+section{
+	padding:2%;
+}
+
+p{
+	padding:2%;
+}
+
+.reqInfo > img{
+	margin:0 auto;
+}
+
+.reqInfo{
+	text-align:center;
+}
+
+#calendar{
+	display:flex;
+}
+
+.subTitle{
+	font-family:"Arvo";
+	font-weight:bold;
+	text-align:center;
+}
