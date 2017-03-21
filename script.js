@@ -35,4 +35,9 @@ $(function(){
 	}
 
 
+$('.block').each(function(i, o){
+		var length = $('.block'.length)
+		$(o).css('background','rgba(255,255,255,' + i +'/ length)');
+});
+
 });
